@@ -22,7 +22,7 @@ The application turns boring habit tracking into a game by creating the illusion
 ## Setup and Installation
 1.  **Clone the repository:**
     ```bash
-    git clone <URL_TO_YOUR_GITHUB_REPOSITORY>
+    git clone <https://github.com/upendi007/Sea_Of_Habits>
     cd Sea-of-Habits
     ```
     (Alternatively, download the project as a ZIP file and unzip it.)
